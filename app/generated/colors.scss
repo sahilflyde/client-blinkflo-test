@@ -1,12 +1,14 @@
 :root {
-  --color-lime: #bd8cee;
-  --color-blue-500: #afb7ff;
-  --color-blue-400: #c7cdff;
-  --color-blue-300: #f7f8ff;
-  --color-black-300: #aaaaaa;
-  --color-black-400: #636363;
-  --color-black-500: #222222;
-  --color-white: #ffffff;
-  --color-light-white: #d9d9d9;
-  --color-black-100: #E5E5E5;
+  --color-lime: #7a4fc9;        /* darker purple */
+  --color-blue-500: #6b74e6;    /* deep blue */
+  --color-blue-400: #4f57c8;
+  --color-blue-300: #1c1f3a;    /* background-ish blue */
+
+  --color-black-100: #1a1a1a;   /* was light → now dark bg */
+  --color-black-300: #5c5c5c;
+  --color-black-400: #b5b5b5;   /* text secondary */
+  --color-black-500: #f1f1f1;   /* main text */
+
+  --color-white: #0e0e0e;       /* page background */
+  --color-light-white: #1f1f1f;
 }
